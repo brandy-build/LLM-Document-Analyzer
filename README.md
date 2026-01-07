@@ -1,8 +1,12 @@
-# LLM-Based Document Analyzer
+# LLM Document Analyzer
 
-A powerful Python application for analyzing documents using AI language models. Supports PDF processing, semantic embeddings, AI-powered Q&A with citations, decision explanations, and integration with Google Gemini and OpenAI APIs.
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/brandy-build/LLM-Document-Analyzer)](https://github.com/brandy-build/LLM-Document-Analyzer)
 
-**Version**: 2.0.0 | **Status**: Production-Ready | **Security**: Enterprise-Grade
+A production-ready Python framework for intelligent document analysis using AI language models. Combines LangChain RAG with multi-provider LLM support for enterprise-grade document processing.
+
+**Latest Version**: 2.1.0 | **Status**: Production-Ready | **Security**: Enterprise-Grade
 
 ## ✨ Features
 
